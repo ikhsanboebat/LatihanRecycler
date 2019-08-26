@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item_grid"
+        android:orderInCategory="100"
+        android:title="Mode Grid"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/item_staggered_grid"
+        android:orderInCategory="100"
+        android:title="Mode Staggered Grid"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/item_horizontal"
+        android:orderInCategory="100"
+        android:title="Mode Horizontal"
+        app:showAsAction="never"/>
+
+</menu>
